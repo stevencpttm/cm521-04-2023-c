@@ -7,5 +7,5 @@
 - [Macau Carpark App (Vue)](https://github.com/stevencpttm/macau-carpark-app-2023)
 - [Quiz App (React)](https://github.com/stevencpttm/react-quiz-app-2023)
 - [Stopwatch App (React)](https://github.com/stevencpttm/react-stopwatch-app-2023)
-- [Quiz App (React Native)][https://github.com/stevencpttm/RNQuizApp-2023]
+- [Quiz App (React Native)](https://github.com/stevencpttm/RNQuizApp-2023)
 - [Matching Game (React Native)](https://github.com/stevencpttm/RNMatchingGame-2023)
